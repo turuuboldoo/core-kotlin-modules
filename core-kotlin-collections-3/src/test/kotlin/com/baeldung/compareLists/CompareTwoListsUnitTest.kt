@@ -1,4 +1,4 @@
-package com.baeldung.compareLists
+package com.turbo.compareLists
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

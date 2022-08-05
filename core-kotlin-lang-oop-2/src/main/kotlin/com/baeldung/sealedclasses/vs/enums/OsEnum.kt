@@ -1,4 +1,4 @@
-package com.baeldung.sealedclasses.vs.enums
+package com.turbo.sealedclasses.vs.enums
 
 enum class OsEnum(val releaseYear: Int = 0, val company: String = "") {
     Linux(0, "Open-Source") {

@@ -1,4 +1,4 @@
-package com.baeldung.array
+package com.turbo.array
 
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test

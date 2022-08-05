@@ -1,4 +1,4 @@
-package com.baeldung.sort
+package com.turbo.sort
 
 import org.junit.jupiter.api.Test
 import java.util.Comparator.comparing

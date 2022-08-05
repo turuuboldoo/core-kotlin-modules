@@ -1,4 +1,4 @@
-package com.baeldung.range
+package com.turbo.range
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

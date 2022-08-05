@@ -1,4 +1,4 @@
-package com.baeldung.operators
+package com.turbo.operators
 
 interface Page<T> {
     fun pageNumber(): Int

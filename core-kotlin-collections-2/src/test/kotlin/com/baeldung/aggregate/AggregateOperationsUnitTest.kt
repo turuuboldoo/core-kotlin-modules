@@ -1,4 +1,4 @@
-package com.baeldung.aggregate
+package com.turbo.aggregate
 
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.assertThrows

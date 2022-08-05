@@ -1,4 +1,4 @@
-package com.baeldung.threadsvscoroutines
+package com.turbo.threadsvscoroutines
 
 import kotlinx.coroutines.*
 import org.junit.jupiter.api.Test

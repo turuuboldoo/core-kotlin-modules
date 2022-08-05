@@ -1,4 +1,4 @@
-package com.baeldung.inline
+package com.turbo.inline
 
 import kotlin.random.Random
 

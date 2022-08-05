@@ -1,4 +1,4 @@
-package com.baeldung.channels
+package com.turbo.channels
 
 import kotlinx.coroutines.async
 import kotlinx.coroutines.channels.Channel

@@ -1,4 +1,4 @@
-package com.baeldung.constants
+package com.turbo.constants
 
 // This won't compile since SimpleClass is not a primitive or String
 // const val constantAtTopLevel = SimpleClass()

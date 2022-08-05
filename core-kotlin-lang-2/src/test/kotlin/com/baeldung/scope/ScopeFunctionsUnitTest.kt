@@ -1,4 +1,4 @@
-package com.baeldung.scope
+package com.turbo.scope
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertTrue

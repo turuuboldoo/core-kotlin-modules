@@ -1,4 +1,4 @@
-package com.baeldung.dataclass.optionalfields
+package com.turbo.dataclass.optionalfields
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.Test

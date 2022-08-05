@@ -1,4 +1,4 @@
-package com.baeldung.enums
+package com.turbo.enums
 
 interface ICardLimit {
     fun getCreditLimit(): Int

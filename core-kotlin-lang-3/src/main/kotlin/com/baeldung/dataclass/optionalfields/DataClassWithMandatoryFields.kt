@@ -1,4 +1,4 @@
-package com.baeldung.dataclass.optionalfields
+package com.turbo.dataclass.optionalfields
 
 class DataClassWithMandatoryFields(
     val name: String,

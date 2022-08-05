@@ -1,4 +1,4 @@
-package com.baeldung.static
+package com.turbo.static
 
 class ConsoleUtils {
     companion object {

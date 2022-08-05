@@ -1,4 +1,4 @@
-package com.baeldung.trywithresource
+package com.turbo.trywithresource
 
 import org.junit.jupiter.api.Test
 import java.beans.ExceptionListener

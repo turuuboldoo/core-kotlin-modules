@@ -1,4 +1,4 @@
-package com.baeldung.constructor
+package com.turbo.constructor
 
 open class Person(
         val name: String,

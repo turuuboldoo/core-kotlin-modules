@@ -1,4 +1,4 @@
-package com.baeldung.kotlin.objects
+package com.turbo.kotlin.objects
 
 object SimpleSingleton {
     val answer = 42;

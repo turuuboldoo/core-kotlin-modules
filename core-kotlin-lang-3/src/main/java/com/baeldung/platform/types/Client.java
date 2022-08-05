@@ -1,4 +1,4 @@
-package com.baeldung.platform.types;
+package com.turbo.platform.types;
 
 import org.jetbrains.annotations.Nullable;
 

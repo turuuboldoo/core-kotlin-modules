@@ -1,4 +1,4 @@
-package com.baeldung.sealed
+package com.turbo.sealed
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

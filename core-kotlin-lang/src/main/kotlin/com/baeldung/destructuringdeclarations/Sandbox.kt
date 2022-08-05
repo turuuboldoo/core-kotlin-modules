@@ -1,4 +1,4 @@
-package com.baeldung.destructuringdeclarations
+package com.turbo.destructuringdeclarations
 
 fun main(args: Array<String>) {
 

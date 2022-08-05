@@ -1,4 +1,4 @@
-package com.baeldung.range
+package com.turbo.range
 
 enum class Color(val rgb: Int) {
     BLUE(0x0000FF),

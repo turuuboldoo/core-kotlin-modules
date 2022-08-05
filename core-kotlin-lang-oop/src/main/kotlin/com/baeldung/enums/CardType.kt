@@ -1,4 +1,4 @@
-package com.baeldung.enums
+package com.turbo.enums
 
 enum class CardType(val color: String) : ICardLimit {
     SILVER("gray") {

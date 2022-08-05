@@ -1,4 +1,4 @@
-package com.baeldung.random
+package com.turbo.random
 
 import org.junit.jupiter.api.Test
 import java.util.concurrent.ThreadLocalRandom

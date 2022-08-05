@@ -1,4 +1,4 @@
-package com.baeldung.constants
+package com.turbo.constants
 
 import org.assertj.core.api.Assertions
 import org.junit.Test

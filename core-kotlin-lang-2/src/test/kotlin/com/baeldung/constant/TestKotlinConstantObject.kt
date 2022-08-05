@@ -1,4 +1,4 @@
-package com.baeldung.constant
+package com.turbo.constant
 
 
 object TestKotlinConstantObject {

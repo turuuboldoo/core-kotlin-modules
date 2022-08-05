@@ -1,4 +1,4 @@
-package com.baeldung.rangeiterator
+package com.turbo.rangeiterator
 
 import java.lang.IllegalStateException
 

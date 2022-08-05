@@ -1,4 +1,4 @@
-package com.baeldung.mapvsflatmap
+package com.turbo.mapvsflatmap
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

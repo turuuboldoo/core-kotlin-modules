@@ -1,4 +1,4 @@
-package com.baeldung.constants;
+package com.turbo.constants;
 
 public class AccessKotlinConstant {
     private String staticObjectFromTopLevel = ConstantsBestPracticesKt.CONSTANT_AT_TOP_LEVEL;

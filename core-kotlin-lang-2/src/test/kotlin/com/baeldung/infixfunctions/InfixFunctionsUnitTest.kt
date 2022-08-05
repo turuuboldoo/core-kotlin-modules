@@ -1,4 +1,4 @@
-package com.baeldung.infixfunctions
+package com.turbo.infixfunctions
 
 import org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test

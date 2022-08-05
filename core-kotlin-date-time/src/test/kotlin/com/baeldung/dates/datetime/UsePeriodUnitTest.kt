@@ -1,6 +1,6 @@
-package com.baeldung.kotlin.datetime
+package com.turbo.kotlin.datetime
 
-import com.baeldung.dates.datetime.UsePeriod
+import com.turbo.dates.datetime.UsePeriod
 import org.junit.Assert
 import org.junit.Test
 import java.time.LocalDate

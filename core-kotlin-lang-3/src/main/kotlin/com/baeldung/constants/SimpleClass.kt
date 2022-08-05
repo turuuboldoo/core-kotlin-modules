@@ -1,4 +1,4 @@
-package com.baeldung.constants
+package com.turbo.constants
 
 class SimpleClass {
 }

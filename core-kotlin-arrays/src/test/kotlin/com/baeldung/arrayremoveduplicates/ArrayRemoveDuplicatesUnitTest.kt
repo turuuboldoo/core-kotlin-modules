@@ -1,4 +1,4 @@
-package com.baeldung.arrayremoveduplicates
+package com.turbo.arrayremoveduplicates
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertTrue

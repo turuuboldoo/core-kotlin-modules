@@ -5,7 +5,7 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
    
     <parent>
-        <groupId>com.baeldung</groupId>
+        <groupId>com.turbo</groupId>
         <artifactId>core-kotlin-modules</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>

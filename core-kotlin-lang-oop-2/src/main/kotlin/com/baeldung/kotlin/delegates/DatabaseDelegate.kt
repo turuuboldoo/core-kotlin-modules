@@ -1,4 +1,4 @@
-package com.baeldung.kotlin.delegates
+package com.turbo.kotlin.delegates
 
 import kotlin.properties.ReadWriteProperty
 import kotlin.reflect.KProperty

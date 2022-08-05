@@ -1,4 +1,4 @@
-package com.baeldung.collections.transformations
+package com.turbo.collections.transformations
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test

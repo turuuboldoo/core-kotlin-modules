@@ -1,4 +1,4 @@
-package com.baeldung.rangeiterator
+package com.turbo.rangeiterator
 
 import org.junit.jupiter.api.Test
 import java.lang.IllegalStateException

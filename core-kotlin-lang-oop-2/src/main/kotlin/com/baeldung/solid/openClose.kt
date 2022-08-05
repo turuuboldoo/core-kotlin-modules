@@ -1,4 +1,4 @@
-package com.baeldung.solid
+package com.turbo.solid
 
 import java.math.BigDecimal
 import java.util.UUID

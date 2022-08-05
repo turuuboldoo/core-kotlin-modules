@@ -1,4 +1,4 @@
-package com.baeldung.decorator
+package com.turbo.decorator
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

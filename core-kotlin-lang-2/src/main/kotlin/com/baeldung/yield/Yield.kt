@@ -1,4 +1,4 @@
-package com.baeldung.yield
+package com.turbo.yield
 
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking

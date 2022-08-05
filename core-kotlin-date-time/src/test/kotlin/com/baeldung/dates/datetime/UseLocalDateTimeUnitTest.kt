@@ -1,6 +1,6 @@
-package com.baeldung.kotlin.datetime
+package com.turbo.kotlin.datetime
 
-import com.baeldung.dates.datetime.UseLocalDateTime
+import com.turbo.dates.datetime.UseLocalDateTime
 import org.junit.Assert.assertEquals
 import org.junit.Test
 import java.time.LocalDate

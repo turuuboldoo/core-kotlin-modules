@@ -1,4 +1,4 @@
-package com.baeldung.decorator
+package com.turbo.decorator
 
 abstract class TreeDecorator
     (private val tree: ChristmasTree) : ChristmasTree {

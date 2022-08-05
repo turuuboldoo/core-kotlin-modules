@@ -1,4 +1,4 @@
-package com.baeldung.universalobjects
+package com.turbo.universalobjects
 
 import org.junit.jupiter.api.Assertions.*
 

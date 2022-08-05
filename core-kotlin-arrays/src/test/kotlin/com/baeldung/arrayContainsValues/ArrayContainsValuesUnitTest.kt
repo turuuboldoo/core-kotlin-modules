@@ -1,4 +1,4 @@
-package com.baeldung.arrayContainsValues
+package com.turbo.arrayContainsValues
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

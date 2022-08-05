@@ -1,5 +1,5 @@
 @file:JvmName("Strings")
-package com.baeldung.kotlin
+package com.turbo.kotlin
 
 fun String.escapeForXml() : String {
     return this

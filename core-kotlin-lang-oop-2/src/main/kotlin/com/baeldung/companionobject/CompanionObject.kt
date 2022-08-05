@@ -1,4 +1,4 @@
-package com.baeldung.companionobject
+package com.turbo.companionobject
 
 class CompanionObject {
     class ClassName {

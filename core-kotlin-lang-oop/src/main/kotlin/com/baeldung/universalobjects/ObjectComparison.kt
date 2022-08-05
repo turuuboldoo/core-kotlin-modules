@@ -1,4 +1,4 @@
-package com.baeldung.universalobjects
+package com.turbo.universalobjects
 
 class ObjectComparison {
     class Storage(private val name: String, private val capacity: Int)
@@ -26,8 +26,8 @@ class ObjectComparison {
     data class StorageDataClass(private val name: String, private val capacity: Int)
 
     fun compareStrings(){
-        val a = "Baeldung"
-        val b = "Baeldung"
+        val a = "turbo"
+        val b = "turbo"
         println("compareStrings() returns ${a == b}")
     }
 

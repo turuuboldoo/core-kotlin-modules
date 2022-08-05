@@ -1,4 +1,4 @@
-package com.baeldung.sealedclasses.vs.enums
+package com.turbo.sealedclasses.vs.enums
 
 sealed class OsSealed(val releaseYear: Int = 0, val company: String = "") {
     constructor(company: String) : this(0, company)

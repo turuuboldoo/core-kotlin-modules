@@ -1,4 +1,4 @@
-package com.baeldung.array
+package com.turbo.array
 
 import kotlin.random.Random
 

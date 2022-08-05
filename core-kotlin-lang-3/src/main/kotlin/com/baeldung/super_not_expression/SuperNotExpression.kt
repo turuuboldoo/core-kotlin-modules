@@ -1,4 +1,4 @@
-package com.baeldung.super_not_expression
+package com.turbo.super_not_expression
 
 open class Vehicle() {
     constructor(name: String) : this() {}

@@ -1,4 +1,4 @@
-package com.baeldung.array
+package com.turbo.array
 
 val dice = arrayOf(1, 2, 3, 4, 5, 6)
 

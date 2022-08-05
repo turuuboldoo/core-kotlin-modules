@@ -1,4 +1,4 @@
-package com.baeldung
+package com.turbo
 
 import org.junit.Test
 import kotlin.test.assertFails

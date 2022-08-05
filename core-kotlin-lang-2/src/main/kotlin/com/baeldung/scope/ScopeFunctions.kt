@@ -1,4 +1,4 @@
-package com.baeldung.scope
+package com.turbo.scope
 
 data class Student(var studentId: String = "", var name: String = "", var surname: String = "") {
 }

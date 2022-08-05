@@ -1,4 +1,4 @@
-package com.baeldung.lambda
+package com.turbo.lambda
 
 fun inferredType(input: Int): Int {
     val square = { number: Int -> number * number }
