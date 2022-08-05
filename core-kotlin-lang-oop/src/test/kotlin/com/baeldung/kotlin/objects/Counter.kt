@@ -1,4 +1,4 @@
-package com.baeldung.kotlin.objects
+package com.turbo.kotlin.objects
 
 object Counter {
     private var count: Int = 0

@@ -1,6 +1,6 @@
-package com.baeldung.companionobject
+package com.turbo.companionobject
 
-import com.baeldung.enums.CardType
+import com.turbo.enums.CardType
 import org.junit.Assert.*
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test

@@ -1,4 +1,4 @@
-package com.baeldung.aggregate
+package com.turbo.aggregate
 
 class AggregateOperations {
     private val numbers = listOf(1, 15, 3, 8)

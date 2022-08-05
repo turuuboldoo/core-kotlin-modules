@@ -1,4 +1,4 @@
-package com.baeldung.abstractfactory
+package com.turbo.abstractfactory
 
 class Katana : Weapon {
 

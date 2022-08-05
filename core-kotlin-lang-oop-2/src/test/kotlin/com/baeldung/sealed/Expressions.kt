@@ -1,4 +1,4 @@
-package com.baeldung.sealed
+package com.turbo.sealed
 
 sealed class Expr(val keyword: String)
 class ForExpr : Expr("for")

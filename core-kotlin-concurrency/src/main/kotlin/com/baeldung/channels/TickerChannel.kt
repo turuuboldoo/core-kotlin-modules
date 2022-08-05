@@ -1,4 +1,4 @@
-package com.baeldung.channels
+package com.turbo.channels
 
 import kotlinx.coroutines.channels.ticker
 import kotlinx.coroutines.delay

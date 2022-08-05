@@ -1,10 +1,10 @@
-package com.baeldung.kotlin;
+package com.turbo.kotlin;
 
 import kotlin.text.StringsKt;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
-import static com.baeldung.kotlin.Strings.*;
+import static com.turbo.kotlin.Strings.*;
 
 
 public class StringUtilUnitTest {

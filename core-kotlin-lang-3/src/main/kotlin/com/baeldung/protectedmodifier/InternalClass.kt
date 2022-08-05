@@ -1,4 +1,4 @@
-package com.baeldung.protectedmodifier
+package com.turbo.protectedmodifier
 
 internal class InternalClass {
     internal fun helloFromInternalFunction(): String {

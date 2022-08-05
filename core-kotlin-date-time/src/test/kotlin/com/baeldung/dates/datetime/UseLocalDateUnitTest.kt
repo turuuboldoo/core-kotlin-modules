@@ -1,6 +1,6 @@
-package com.baeldung.kotlin.datetime
+package com.turbo.kotlin.datetime
 
-import com.baeldung.dates.datetime.UseLocalDate
+import com.turbo.dates.datetime.UseLocalDate
 import org.junit.Assert
 import org.junit.Test
 import java.time.DayOfWeek

@@ -1,4 +1,4 @@
-package com.baeldung.sealedclasses.vs.enums
+package com.turbo.sealedclasses.vs.enums
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

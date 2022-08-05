@@ -1,4 +1,4 @@
-package com.baeldung.modify.inplace
+package com.turbo.modify.inplace
 
 object ModifyInPlace {
     fun replaceEvenNumbersBy0Iterator(list: MutableList<Int>): MutableList<Int> {

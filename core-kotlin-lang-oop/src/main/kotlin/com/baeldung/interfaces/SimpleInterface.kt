@@ -1,4 +1,4 @@
-package com.baeldung.interfaces
+package com.turbo.interfaces
 
 interface SimpleInterface {
     val firstProp: String

@@ -1,4 +1,4 @@
-package com.baeldung.kotlin.delegates
+package com.turbo.kotlin.delegates
 
 import org.junit.jupiter.api.Test
 import kotlin.properties.PropertyDelegateProvider

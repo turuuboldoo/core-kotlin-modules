@@ -1,4 +1,4 @@
-package com.baeldung.kotlin.anonymousObjects
+package com.turbo.kotlin.anonymousObjects
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

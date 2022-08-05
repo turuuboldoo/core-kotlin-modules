@@ -1,4 +1,4 @@
-package com.baeldung.inputstream
+package com.turbo.inputstream
 
 import org.junit.jupiter.api.Test
 import java.io.BufferedReader

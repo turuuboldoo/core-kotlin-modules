@@ -1,4 +1,4 @@
-package com.baeldung.kotlin
+package com.turbo.kotlin
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

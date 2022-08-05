@@ -1,4 +1,4 @@
-package com.baeldung.dataclass
+package com.turbo.dataclass
 
 fun main(args: Array<String>) {
 

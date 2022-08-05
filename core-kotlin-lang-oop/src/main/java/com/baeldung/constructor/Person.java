@@ -1,4 +1,4 @@
-package com.baeldung.constructor;
+package com.turbo.constructor;
 
 class PersonJava {
     final String name;

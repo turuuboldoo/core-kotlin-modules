@@ -1,4 +1,4 @@
-package com.baeldung.iterate_map
+package com.turbo.iterate_map
 
 class ForLoop {
     private val map = mapOf("Key1" to "Value1", "Key2" to "Value2", "Key3" to "Value3")

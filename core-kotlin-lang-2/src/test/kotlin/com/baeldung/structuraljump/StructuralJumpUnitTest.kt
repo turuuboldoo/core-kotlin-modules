@@ -1,4 +1,4 @@
-package com.baeldung.structuraljump
+package com.turbo.structuraljump
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

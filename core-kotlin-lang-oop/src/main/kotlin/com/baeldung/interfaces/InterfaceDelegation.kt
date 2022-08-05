@@ -1,4 +1,4 @@
-package com.baeldung.interfaces
+package com.turbo.interfaces
 
 interface MyInterface {
     fun someMethod(): String

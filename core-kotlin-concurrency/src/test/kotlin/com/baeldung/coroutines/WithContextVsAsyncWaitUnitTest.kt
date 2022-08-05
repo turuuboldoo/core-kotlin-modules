@@ -1,4 +1,4 @@
-package com.baeldung.coroutines
+package com.turbo.coroutines
 
 import kotlinx.coroutines.*
 import org.junit.jupiter.api.Assertions

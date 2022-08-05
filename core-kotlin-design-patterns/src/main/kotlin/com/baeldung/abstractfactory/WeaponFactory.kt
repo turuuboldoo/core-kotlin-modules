@@ -1,4 +1,4 @@
-package com.baeldung.abstractfactory
+package com.turbo.abstractfactory
 
 abstract class WeaponFactory {
 

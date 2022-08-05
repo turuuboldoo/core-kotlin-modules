@@ -1,4 +1,4 @@
-package com.baeldung.repeating
+package com.turbo.repeating
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

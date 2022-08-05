@@ -1,4 +1,4 @@
-package com.baeldung.listtomap
+package com.turbo.listtomap
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertTrue

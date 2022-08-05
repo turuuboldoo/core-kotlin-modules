@@ -1,4 +1,4 @@
-package com.baeldung.filter
+package com.turbo.filter
 
 import org.apache.commons.math3.primes.Primes
 import org.junit.jupiter.api.Assertions.assertIterableEquals

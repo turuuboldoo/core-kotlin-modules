@@ -1,7 +1,7 @@
-package com.baeldung.constants
+package com.turbo.constants
 
 
-import com.baeldung.constants.ConstantsBestPractices.Companion.CONSTANT_IN_COMPANION_OBJECT
+import com.turbo.constants.ConstantsBestPractices.Companion.CONSTANT_IN_COMPANION_OBJECT
 import org.assertj.core.api.Assertions
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.baeldung.platform.types
+package com.turbo.platform.types
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

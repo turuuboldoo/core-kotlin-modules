@@ -1,4 +1,4 @@
-package com.baeldung.kotlin.emptyConstructorOfDataCls
+package com.turbo.kotlin.emptyConstructorOfDataCls
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

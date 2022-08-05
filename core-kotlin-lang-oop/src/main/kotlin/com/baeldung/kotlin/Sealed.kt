@@ -1,4 +1,4 @@
-package com.baeldung.kotlin
+package com.turbo.kotlin
 
 sealed class Result<out S, out F> {
     abstract fun <R> map(func: (S) -> R) : Result<R, F>

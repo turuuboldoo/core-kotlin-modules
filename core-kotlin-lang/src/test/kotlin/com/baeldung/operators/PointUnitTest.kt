@@ -1,4 +1,4 @@
-package com.baeldung.operators
+package com.turbo.operators
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

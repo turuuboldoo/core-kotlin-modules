@@ -1,6 +1,6 @@
-package com.baeldung.modify.inplace
+package com.turbo.modify.inplace
 
-import com.baeldung.modify.inplace.ModifyInPlace.mapInPlace
+import com.turbo.modify.inplace.ModifyInPlace.mapInPlace
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 

@@ -1,6 +1,6 @@
-package com.baeldung.outside.protectedmodifier
+package com.turbo.outside.protectedmodifier
 
-import com.baeldung.protectedmodifier.InternalClass
+import com.turbo.protectedmodifier.InternalClass
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.Test
 

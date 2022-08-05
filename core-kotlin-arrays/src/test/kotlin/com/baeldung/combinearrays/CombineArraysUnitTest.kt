@@ -1,4 +1,4 @@
-package com.baeldung.combinearrays
+package com.turbo.combinearrays
 
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test

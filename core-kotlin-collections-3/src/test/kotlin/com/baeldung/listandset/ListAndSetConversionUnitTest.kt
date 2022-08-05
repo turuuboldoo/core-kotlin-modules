@@ -1,4 +1,4 @@
-package com.baeldung.listandset
+package com.turbo.listandset
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

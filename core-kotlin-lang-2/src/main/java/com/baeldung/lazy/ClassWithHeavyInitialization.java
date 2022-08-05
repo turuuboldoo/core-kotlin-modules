@@ -1,4 +1,4 @@
-package com.baeldung.lazy;
+package com.turbo.lazy;
 
 public class ClassWithHeavyInitialization {
     private ClassWithHeavyInitialization() {

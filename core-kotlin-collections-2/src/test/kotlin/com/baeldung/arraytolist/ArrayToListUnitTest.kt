@@ -1,4 +1,4 @@
-package com.baeldung.arraytolist
+package com.turbo.arraytolist
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

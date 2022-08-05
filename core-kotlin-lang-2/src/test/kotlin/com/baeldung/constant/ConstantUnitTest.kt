@@ -1,4 +1,4 @@
-package com.baeldung.constant
+package com.turbo.constant
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

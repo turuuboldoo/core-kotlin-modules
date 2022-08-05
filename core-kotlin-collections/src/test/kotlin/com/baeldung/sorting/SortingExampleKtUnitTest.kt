@@ -1,4 +1,4 @@
-package com.baeldung.sorting
+package com.turbo.sorting
 
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Test

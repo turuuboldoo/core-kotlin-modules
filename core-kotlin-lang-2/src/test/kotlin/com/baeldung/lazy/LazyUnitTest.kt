@@ -1,4 +1,4 @@
-package com.baeldung.lazy
+package com.turbo.lazy
 
 import org.junit.jupiter.api.Test
 import java.util.concurrent.CountDownLatch

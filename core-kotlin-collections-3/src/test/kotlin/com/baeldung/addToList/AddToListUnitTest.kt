@@ -1,4 +1,4 @@
-package com.baeldung.addToList
+package com.turbo.addToList
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

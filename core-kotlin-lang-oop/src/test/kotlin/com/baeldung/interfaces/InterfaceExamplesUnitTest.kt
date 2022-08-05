@@ -1,4 +1,4 @@
-package com.baeldung.interfaces
+package com.turbo.interfaces
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

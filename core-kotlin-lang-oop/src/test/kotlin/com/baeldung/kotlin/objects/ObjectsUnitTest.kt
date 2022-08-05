@@ -1,4 +1,4 @@
-package com.baeldung.kotlin.objects
+package com.turbo.kotlin.objects
 
 import org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test

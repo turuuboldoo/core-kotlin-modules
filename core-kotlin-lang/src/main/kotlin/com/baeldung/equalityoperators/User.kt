@@ -1,3 +1,3 @@
-package com.baeldung.equalityoperators
+package com.turbo.equalityoperators
 
 data class User(val name: String, val age: Int, val hobbies: List<String>)

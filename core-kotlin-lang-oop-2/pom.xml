@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
 
     <parent>
-        <groupId>com.baeldung</groupId>
+        <groupId>com.turbo</groupId>
         <artifactId>core-kotlin-modules</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
@@ -27,7 +27,7 @@
                     </compilerPlugins>
 
                     <pluginOptions>
-                        <option>no-arg:annotation=com.baeldung.kotlin.emptyConstructorOfDataCls.NoArg</option>
+                        <option>no-arg:annotation=com.turbo.kotlin.emptyConstructorOfDataCls.NoArg</option>
                     </pluginOptions>
                 </configuration>
 

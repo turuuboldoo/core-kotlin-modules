@@ -1,4 +1,4 @@
-package com.baeldung.filter
+package com.turbo.filter
 
 import org.junit.jupiter.api.Assertions.assertIterableEquals
 import org.junit.jupiter.api.Assertions.assertThrows

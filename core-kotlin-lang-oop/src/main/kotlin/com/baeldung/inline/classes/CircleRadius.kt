@@ -1,4 +1,4 @@
-package com.baeldung.inline.classes
+package com.turbo.inline.classes
 
 interface Drawable {
     fun draw()

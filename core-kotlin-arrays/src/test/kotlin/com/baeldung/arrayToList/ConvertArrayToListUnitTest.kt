@@ -1,4 +1,4 @@
-package com.baeldung.arrayToList
+package com.turbo.arrayToList
 
 import org.assertj.core.api.Assertions.assertThat
 import org.assertj.core.util.Arrays

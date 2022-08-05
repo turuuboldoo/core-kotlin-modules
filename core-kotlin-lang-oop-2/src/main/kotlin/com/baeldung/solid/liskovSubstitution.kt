@@ -1,4 +1,4 @@
-package com.baeldung.solid
+package com.turbo.solid
 
 class A
 class B

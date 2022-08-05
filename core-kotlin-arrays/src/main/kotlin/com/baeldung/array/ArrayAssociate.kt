@@ -1,4 +1,4 @@
-package com.baeldung.array
+package com.turbo.array
 
 fun main(args: Array<String>) {
     val fruits = arrayOf("Pear", "Apple", "Papaya", "Banana")

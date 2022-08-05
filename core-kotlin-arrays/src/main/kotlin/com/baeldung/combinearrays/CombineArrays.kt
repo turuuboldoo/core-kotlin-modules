@@ -1,4 +1,4 @@
-package com.baeldung.combinearrays
+package com.turbo.combinearrays
 
 class CombineArrays {
     fun <T> combinePlus(arr1: Array<T>, arr2: Array<T>): Array<T> {

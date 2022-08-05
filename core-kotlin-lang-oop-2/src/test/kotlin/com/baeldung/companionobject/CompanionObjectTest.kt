@@ -1,4 +1,4 @@
-package com.baeldung.companionobject
+package com.turbo.companionobject
 
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test

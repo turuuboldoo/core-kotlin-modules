@@ -1,4 +1,4 @@
-package com.baeldung.decorator
+package com.turbo.decorator
 
 class Garlands(private val tree: ChristmasTree) : ChristmasTree by tree {
 

@@ -1,4 +1,4 @@
-package com.baeldung.splitlist
+package com.turbo.splitlist
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

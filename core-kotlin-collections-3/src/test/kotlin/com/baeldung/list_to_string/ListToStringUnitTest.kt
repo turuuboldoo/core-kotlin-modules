@@ -1,4 +1,4 @@
-package com.baeldung.list_to_string
+package com.turbo.list_to_string
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

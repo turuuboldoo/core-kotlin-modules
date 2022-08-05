@@ -1,4 +1,4 @@
-package com.baeldung.inline.classes
+package com.turbo.inline.classes
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

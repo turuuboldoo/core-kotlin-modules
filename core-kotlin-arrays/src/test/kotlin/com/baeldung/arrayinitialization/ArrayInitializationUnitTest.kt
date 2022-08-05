@@ -1,4 +1,4 @@
-package com.baeldung.arrayinitialization
+package com.turbo.arrayinitialization
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test

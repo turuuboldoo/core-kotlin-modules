@@ -1,4 +1,4 @@
-package com.baeldung.kotlin.delegates
+package com.turbo.kotlin.delegates
 
 class User(val id: Int) {
     var name: String by DatabaseDelegate("name", id)

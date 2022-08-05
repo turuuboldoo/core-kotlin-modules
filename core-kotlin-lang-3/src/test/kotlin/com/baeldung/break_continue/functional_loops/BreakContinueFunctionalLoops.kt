@@ -1,4 +1,4 @@
-package com.baeldung.break_continue.functional_loops
+package com.turbo.break_continue.functional_loops
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertTrue

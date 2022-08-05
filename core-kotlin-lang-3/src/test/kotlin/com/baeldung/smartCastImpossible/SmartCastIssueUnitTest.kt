@@ -1,4 +1,4 @@
-package com.baeldung.smartCastImpossible
+package com.turbo.smartCastImpossible
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

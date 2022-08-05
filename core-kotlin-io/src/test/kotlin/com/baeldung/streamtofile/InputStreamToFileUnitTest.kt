@@ -1,4 +1,4 @@
-package com.baeldung.streamtofile
+package com.turbo.streamtofile
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

@@ -1,4 +1,4 @@
-package com.baeldung.coroutines
+package com.turbo.coroutines
 
 import kotlinx.coroutines.*
 import org.junit.jupiter.api.Assertions
@@ -26,14 +26,14 @@ class CoroutineContextUnitTest {
     @Test
     fun givenEmptyContext_whenAddCoroutineName_thenNewContextContainsCoroutineName() {
         val context = EmptyCoroutineContext
-        val newContext = context + CoroutineName("baeldung")
+        val newContext = context + CoroutineName("turbo")
         Assertions.assertTrue(newContext != context)
-        Assertions.assertEquals("baeldung", newContext[CoroutineName]!!.name)
+        Assertions.assertEquals("turbo", newContext[CoroutineName]!!.name)
     }
 
     @Test
     fun givenCoroutineNameAsContext_whenRemoveCoroutineName_thenEmptyContext() {
-        val context = CoroutineName("baeldung")
+        val context = CoroutineName("turbo")
         val newContext = context.minusKey(CoroutineName)
         Assertions.assertNull(newContext[CoroutineName])
     }

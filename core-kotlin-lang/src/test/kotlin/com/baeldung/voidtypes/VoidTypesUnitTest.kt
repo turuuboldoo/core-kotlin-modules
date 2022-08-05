@@ -1,4 +1,4 @@
-package com.baeldung.voidtypes
+package com.turbo.voidtypes
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertNull

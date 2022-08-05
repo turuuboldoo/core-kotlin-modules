@@ -1,4 +1,4 @@
-package com.baeldung.kotlin.delegates
+package com.turbo.kotlin.delegates
 
 import java.util.concurrent.locks.ReentrantLock
 import kotlin.concurrent.withLock

@@ -1,4 +1,4 @@
-package com.baeldung.foldvsreduce
+package com.turbo.foldvsreduce
 
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.assertThrows

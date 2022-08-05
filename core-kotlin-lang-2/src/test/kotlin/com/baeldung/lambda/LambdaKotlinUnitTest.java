@@ -1,4 +1,4 @@
-package com.baeldung.lambda;
+package com.turbo.lambda;
 
 import kotlin.jvm.functions.Function1;
 import org.junit.jupiter.api.Test;

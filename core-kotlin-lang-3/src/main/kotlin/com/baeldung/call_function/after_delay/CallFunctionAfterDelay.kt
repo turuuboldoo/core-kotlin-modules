@@ -1,4 +1,4 @@
-package com.baeldung.call_function.after_delay
+package com.turbo.call_function.after_delay
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch

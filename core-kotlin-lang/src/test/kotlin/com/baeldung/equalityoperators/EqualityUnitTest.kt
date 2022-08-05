@@ -1,4 +1,4 @@
-package com.baeldung.equalityoperators
+package com.turbo.equalityoperators
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertFalse

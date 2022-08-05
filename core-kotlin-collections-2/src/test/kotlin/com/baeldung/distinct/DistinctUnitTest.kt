@@ -1,4 +1,4 @@
-package com.baeldung.distinct
+package com.turbo.distinct
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
@@ -17,10 +17,10 @@ class DistinctUnitTest {
     @Test
     fun `should be able to customize the equality process by distinctBy`() {
         val urls = listOf(
-          Url("https", "baeldung", 443, "/authors"),
-          Url("https", "baeldung", 443, "/authors"),
-          Url("http", "baeldung", 80, "/authors"),
-          Url("https", "baeldung", 443, "/kotlin/distinct"),
+          Url("https", "turbo", 443, "/authors"),
+          Url("https", "turbo", 443, "/authors"),
+          Url("http", "turbo", 80, "/authors"),
+          Url("https", "turbo", 443, "/kotlin/distinct"),
           Url("https", "google", 443, "/"),
           Url("http", "google", 80, "/search"),
           Url("tcp", "docker", 2376, "/"),

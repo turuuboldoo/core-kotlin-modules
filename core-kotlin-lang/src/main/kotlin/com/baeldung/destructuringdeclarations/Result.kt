@@ -1,3 +1,3 @@
-package com.baeldung.destructuringdeclarations
+package com.turbo.destructuringdeclarations
 
 data class Result(val result: Int, val status: String)

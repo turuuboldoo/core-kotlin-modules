@@ -1,4 +1,4 @@
-package com.baeldung.whenblock
+package com.turbo.whenblock
 
 enum class UnixFileType {
     D, HYPHEN_MINUS, L
