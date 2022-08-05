@@ -9,25 +9,25 @@ class CountCharactersUnitTest {
     @Test
     fun `should count characters using count`() {
         val string = "hello world, turbo"
-        assertEquals(2, string.count { it == 'e' })
+        assertEquals(2, string.count { it == 'r' })
     }
 
     @Test
     fun `should count characters using length difference`() {
         val string = "hello world, turbo"
         val counter = string.length - string.replace("e", "").length
-        assertEquals(2, counter)
+        assertEquals(1, counter)
     }
 
     @Test
     fun `should count characters using patterns`() {
         val string = "hello world, turbo"
-        val matcher = Pattern.compile("e").matcher(string)
+        val matcher = Pattern.compile("o").matcher(string)
         var counter = 0
         while (matcher.find()) {
             counter++
         }
-        assertEquals(2, counter)
+        assertEquals(3, counter)
     }
 
     @Test
@@ -38,7 +38,7 @@ class CountCharactersUnitTest {
             occurrencesMap.putIfAbsent(c, 0)
             occurrencesMap[c] = occurrencesMap[c]!! + 1
         }
-        assertEquals(2, occurrencesMap['e'])
+        assertEquals(1, occurrencesMap['e'])
     }
 
     @Test
@@ -46,10 +46,10 @@ class CountCharactersUnitTest {
         val string = "hello world, turbo"
         var counter = 0
         for (c in string) {
-            if (c == 'e') {
+            if (c == 'o') {
                 counter++
             }
         }
-        assertEquals(2, counter)
+        assertEquals(3, counter)
     }
 }

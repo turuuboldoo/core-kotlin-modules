@@ -13,11 +13,11 @@ class HexUnitTest {
         md5.update("turbo".toByteArray())
 
         val digest: ByteArray = md5.digest()
-        // the hex value of MD5 digest for "turbo" is "9d2ea3506b1121365e5eec24c92c528d"
-        assertEquals("9d2ea3506b1121365e5eec24c92c528d", digest.toHex())
-        assertEquals("9d2ea3506b1121365e5eec24c92c528d", digest.toHex2())
-        assertEquals("9d2ea3506b1121365e5eec24c92c528d", digest.toHex3())
-        assertEquals("9d2ea3506b1121365e5eec24c92c528d", digest.toHex4())
+
+        assertEquals("8d46e886eb80ca4eef0ea448be2c018d", digest.toHex())
+        assertEquals("8d46e886eb80ca4eef0ea448be2c018d", digest.toHex2())
+        assertEquals("8d46e886eb80ca4eef0ea448be2c018d", digest.toHex3())
+        assertEquals("8d46e886eb80ca4eef0ea448be2c018d", digest.toHex4())
     }
 }
 
