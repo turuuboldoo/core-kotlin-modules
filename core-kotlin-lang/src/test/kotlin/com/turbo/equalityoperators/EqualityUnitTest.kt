@@ -2,6 +2,7 @@ package com.turbo.equalityoperators
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertFalse
+import kotlin.test.assertNotSame
 import kotlin.test.assertTrue
 
 class EqualityUnitTest {
@@ -12,7 +13,7 @@ class EqualityUnitTest {
         val a = Integer(10)
         val b = Integer(10)
 
-        assertFalse(a === b)
+        assertNotSame(a, b)
     }
 
     // Checks structural equality

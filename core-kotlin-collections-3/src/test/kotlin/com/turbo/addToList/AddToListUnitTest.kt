@@ -3,7 +3,6 @@ package com.turbo.addToList
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 
-
 class AddToListUnitTest {
     @Test
     fun `given an arraylist when add an element to it then get expected result`() {

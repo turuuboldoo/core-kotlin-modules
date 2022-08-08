@@ -30,6 +30,7 @@ class CoroutineUnitTest {
         }
     }
 
+    @OptIn(DelicateCoroutinesApi::class)
     @Test
     fun whenCreateCoroutineWithLaunchWithDedicatedThread_thenRun() = runBlocking {
 
