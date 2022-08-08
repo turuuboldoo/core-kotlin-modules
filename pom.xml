@@ -36,6 +36,8 @@
         <module>core-kotlin-strings</module>
         <module>core-kotlin-strings-2</module>
         <module>core-kotlin-files</module>
+        <module>kotlin-companion</module>
+        <module>kotlin-lambda</module>
     </modules>
 
     <repositories>
