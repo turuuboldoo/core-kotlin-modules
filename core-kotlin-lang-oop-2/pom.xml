@@ -13,8 +13,6 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <dependencies>
-    </dependencies>
     <build>
         <plugins>
             <plugin>
@@ -35,18 +33,10 @@
                     <dependency>
                         <groupId>org.jetbrains.kotlin</groupId>
                         <artifactId>kotlin-maven-noarg</artifactId>
-                        <version>${kotlin.version}</version>
+                        <version>1.7.10</version>
                     </dependency>
                 </dependencies>
             </plugin>
         </plugins>
     </build>
-    <dependencyManagement>
-        <dependencies>
-
-        </dependencies>
-    </dependencyManagement>
-
-    <properties>
-    </properties>
 </project>
